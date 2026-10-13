@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Audit QRIS Forensik</string>
+    <string name="forensic_audit_title">Audit Forensik QRIS</string>
+    <string name="dashboard_tab">Dashboard</string>
+    <string name="transactions_tab">Transaksi</string>
+    <string name="audit_report_tab">Laporan</string>
+    <string name="github_sync_tab">GitHub Sync</string>
+    <string name="profile_tab">Auditor</string>
+</resources>

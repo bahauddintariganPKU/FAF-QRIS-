@@ -1,0 +1,6 @@
+{
+  "name": "Audit QRIS Forensik",
+  "description": "Aplikasi audit forensik transaksi QRIS real-time dengan deteksi anomali fraud, otentikasi auditor, dan sinkronisasi otomatis ke GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
